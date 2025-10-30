@@ -1,3 +1,5 @@
+**Note: This is the final uploaded version, cloned from a different private repository.**
+
 # Medlas AI
 
 A professional medication management system for senior care facilities, built with React Native and Expo. Streamline medication schedules, track adherence, and ensure safety with AI-powered insights.
