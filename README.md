@@ -164,6 +164,7 @@ export const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 - Icons by Lucide
 - Built with Expo and React Native
 - Powered by Google Gemini AI
+- README generated using ChatGPT
 
 ## Support
 
