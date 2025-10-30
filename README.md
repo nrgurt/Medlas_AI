@@ -1,3 +1,5 @@
+**Note**: This is the final uploaded version, cloned from a different private repository.
+
 # Medlas AI
 
 A professional medication management system for senior care facilities, built with React Native and Expo. Streamline medication schedules, track adherence, and ensure safety with AI-powered insights.
@@ -153,10 +155,8 @@ export const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 ## Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Commit your changes (`git commit -m 'Add amazing feature'`)
+3. Open a Pull Request
 
 ## Acknowledgments
 
@@ -173,4 +173,3 @@ For support and questions, please open an issue on GitHub or contact the develop
 ---
 
 **Medlas AI** - Making medication management safer and more efficient for senior care facilities.
-**Note**: This is the final uploaded version, cloned from a different private repository.
